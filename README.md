@@ -47,14 +47,14 @@ I am a 16-year-old Programmer and Full-Stack Software Developer from Algeria. I 
 ### 📊 Performance & Live Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbderrahmaneMeguellati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abderrahmane's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahmaneMeguellati&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meguellatiabderahmene-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abderrahmane's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meguellatiabderahmene-bot&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbderrahmaneMeguellati&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meguellatiabderahmene-bot&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbderrahmaneMeguellati&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=meguellatiabderahmene-bot&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="GitHub Trophies" />
 </p>
