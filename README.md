@@ -42,23 +42,5 @@ I am a 16-year-old Programmer and Full-Stack Software Developer from Algeria. I 
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
-
-### 📊 Performance & Live Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=meguellatiabderahmene-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abderrahmane's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meguellatiabderahmene-bot&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meguellatiabderahmene-bot&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meguellatiabderahmene-bot&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="GitHub Trophies" />
-</p>
----
-
 ### 🧠 Engineering Insights
 > **Before you exit:** When sourcing talent for complex systems, where do you place the highest priority? Is it a developer's mastery over a specific modern framework (like React or Django), or their fundamental problem-solving efficiency and system architecture design? ⚙️
