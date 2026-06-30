@@ -1,16 +1,16 @@
 # ⚡ Hi there, I'm Abderrahmane Meguellati! 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=1000&color=38B2AC&width=550&lines=Full-Stack+Web+Developer;Desktop+App+Engineer;16-Year-Old+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=1000&color=38B2AC&width=550&lines=Full-Stack+Web+Developer;AI+%26+Desktop+App+Engineer;16-Year-Old+Programmer" alt="Typing SVG" />
 </p>
 
-I am a 16-year-old Programmer and Full-Stack Software Developer from Algeria. I specialize in building high-performance web environments and professional desktop applications. I focus on turning complex database logic into slick, smooth, and next-level user interfaces.
+I am a 16-year-old Programmer and Full-Stack Software Developer from Algeria. I specialize in building high-performance web environments, intelligent applications, and professional desktop software. I focus on turning complex database logic and AI workflows into slick, smooth, and next-level user interfaces.
 
 ---
 
 ### 🚀 What I Do
 - 🌐 **Modern Web Development** – Engineering dynamic web applications using **React** and **Django**.
-- 🎨 **Slick UI/UX Design** – Designing beautiful, fully responsive interfaces with **Tailwind CSS**.
+- 🤖 **AI Integration & Automation** – Implementing intelligent algorithms and machine learning models into Python architectures.
 - 🖥️ **Desktop Software** – Crafting powerful, native desktop applications using **Python** and **PyQt**.
 - 💾 **Database Architecture** – Managing structured data models seamlessly with **SQL**.
 
@@ -27,9 +27,10 @@ I am a 16-year-old Programmer and Full-Stack Software Developer from Algeria. I 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### Backend, Desktop & Databases
+#### Backend, Desktop & AI Ecosystem
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F61?style=for-the-badge&logo=ai&logoColor=white" alt="AI" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt" />
   <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
@@ -42,5 +43,23 @@ I am a 16-year-old Programmer and Full-Stack Software Developer from Algeria. I 
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 🧠 Engineering Insights
-> **Before you exit:** When sourcing talent for complex systems, where do you place the highest priority? Is it a developer's mastery over a specific modern framework (like React or Django), or their fundamental problem-solving efficiency and system architecture design? ⚙️
+---
+
+### 💼 Technical Perspective
+> **A question for tech leads and project creators:** When you are searching for a core developer to join your project, what is the single most critical asset you look for—bulletproof backend architecture, next-level user experience design, or clean, highly maintainable code? Let's discuss! 🎯
+
+---
+
+### 📊 Performance & Live Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=meguellatiabderahmene-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abderrahmane's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meguellatiabderahmene-bot&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meguellatiabderahmene-bot&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=meguellatiabderahmene-bot&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="GitHub Trophies" />
