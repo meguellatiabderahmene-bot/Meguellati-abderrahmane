@@ -45,4 +45,3 @@ I am a 16-year-old Programmer and Full-Stack Software Developer from Algeria. I 
 
 ### 💼 Technical Perspective
 > **A question for tech leads and project creators:** When you are searching for a core developer to join your project, what is the single most critical asset you look for—bulletproof backend architecture, next-level user experience design, or clean, highly maintainable code? Let's discuss! 🎯
-
